@@ -4,7 +4,7 @@ const AirconDetail = ({ color, desc }) => {
     padding: "10px",
     display: "flex",
     alignItems: "center",
-    gap: "3px",
+    gap: "30px",
   };
   return (
     <div style={style}>
